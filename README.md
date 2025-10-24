@@ -1,6 +1,7 @@
 # Çok Dilli Speech-to-Text Uygulaması (Vosk + C#)
 
-İndir:
+(Zip dosyasını bu adresten indirdikten sonra sadece Speech_to_text yazan dosyaya tıklayın.)
+İndir:https://github.com/Zeynep-Otegen/Speech_to_text/releases/tag/speech_to_text
 
 Bu proje, C# Windows Forms kullanılarak geliştirilmiş, Türkçe ve İngilizce dillerini destekleyen bir ses → metin (speech-to-text) uygulamasıdır.
 Uygulama, çevrimdışı çalışan Vosk kütüphanesini kullanır — internet bağlantısına gerek yoktur.
